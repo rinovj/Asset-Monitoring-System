@@ -1,6 +1,6 @@
 # Asset Monitoring System – AMS
 
-(Early Warning System and Performance Monitoring Dashboard)
+[Early Warning System and Performance Monitoring Dashboard]()
 
 AMS is an *All-in-One*, or a *Unified Asset Monitoring Dashboard* specially designed for managerial level: leaders, directors, managers, or users who are responsible or interested in monitoring and tracking priorities, important and valuable assets, or information.
 
@@ -14,20 +14,20 @@ One of its main features is the [**_Early Warning System_**]() feature:
   * 🟩→ **safe**, below the threshold or target achieved.
   * 🟨→ **need attention**, approaching the threshold or target → notification sent to user.
   * 🟥→ **urgent action required**, exceed the threshold or missed the target → notification sent to user.
-* By knowing the status instantly and in real-time will help management make the right decision and immediately take further action or take corrective action when necessary, so that greater losses can be prevented.
+* By knowing the status [instantly]() and in [real-time]() will help management make the right decision and [immediately]() take further action or take corrective action when necessary, so that greater losses can be prevented.
 
 ## Key Features
-* Provides Real-time – live information in Visual form – Helicopter View
-* Provides Multilevel and Unlimited hierarchy level.
+* Provides [Real-time – live]() information in [Visual]() form – [Helicopter View]()
+* Provides [Multilevel]() and [Unlimited hierarchy]() level.
 * Distributed responsibility to respective Area Manager/Coordinator.
 * Realtime update using Server Push Technology.
 * Monitor and track various assets (see diagram 1).
-* Provides detail information of assets (tailor made as ordered).
+* Provides [detail information]() of assets (tailor made as ordered).
 * Fixed or Moving assets.
 
 ## Advantages for User
-* Focus on priorities, critical and valuable assets.
-* Focus on under or over values: manpower availability, sub-standard services, under or over-budget, miss or exceed target.
+* [**_Focus_**]() on priorities, critical and valuable assets.
+* [**_Focus_**]() on under or over values: manpower availability, sub-standard services, under or over-budget, miss or exceed target.
 * Reduce dependencies on subordinates (report request).
 * Reduce the needs to memorize multiple systems.
 * Easy to monitor specific goals that have been planned.
@@ -67,8 +67,8 @@ One of its main features is the [**_Early Warning System_**]() feature:
 ### Use Case 7 – Election, Voting and Score Monitoring
 * Presidential, political parties’ election, voting, or scoring.
 
-## Diagram 1
-![AMS Rev 2](https://user-images.githubusercontent.com/22849660/226148436-f891db41-82ed-4ff9-83eb-c945c378b9c1.png)
+## [Example for Asset Tracking | Mustering System]()
+![AMS Rev 2 -POB-Muster](https://user-images.githubusercontent.com/22849660/226150630-5207dbc6-11ee-4027-9f19-508615057455.png)
 
 ## Screenshot 1
 ![ExxonMobil](https://user-images.githubusercontent.com/22849660/226149572-e05207be-79be-4109-b9aa-0c37041d9579.png)
