@@ -70,18 +70,18 @@ One of its main features is the [**_Early Warning System_**]() feature:
 ### Use Case 7 – Election, Voting and Score Monitoring
 * Presidential, political parties’ election, voting, or scoring.
 
-## [Implementation of AMS as Personnel Tracking | Mustering System at ExxonMobil Indonesia]()
+### 🔴Implementation of AMS as Personnel Tracking | [Mustering System]() at [ExxonMobil Indonesia]()
 ![AMS Rev 2 -POB-Muster](https://user-images.githubusercontent.com/22849660/226150630-5207dbc6-11ee-4027-9f19-508615057455.png)
 
-## Screenshot 1
+### Screenshot 1
 ![ExxonMobil](https://user-images.githubusercontent.com/22849660/226149572-e05207be-79be-4109-b9aa-0c37041d9579.png)
 
-## Screenshot 2
+### Screenshot 2
 ![EMCL_ONSHORE](https://user-images.githubusercontent.com/22849660/226149576-8f260c13-b82f-4ec9-987c-bad7120df468.png)
 
-## Screenshot 3
+### Screenshot 3
 ![EMCL](https://user-images.githubusercontent.com/22849660/226149584-e79e2e03-ac60-4a46-843f-d94f43f03f07.png)
 
-## Screenshot 4
+### Screenshot 4
 ![EMCL_OFFSHORE 2](https://user-images.githubusercontent.com/22849660/226150026-ac400b75-096a-401c-8a1f-46bfd7c9b068.png)
 
