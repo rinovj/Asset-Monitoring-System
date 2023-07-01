@@ -3,7 +3,7 @@
 [Early Warning System and Performance Monitoring Dashboard]()
 
 * _A real-time web application with advanced GUI, advanced CSS, and without a single line of JavaScript_ .
-* _Developed with Microsoft C# [Blazor WASM 7](), SignalR Core 7, ASP.NET Core 7 and JWT Authentication & Authorization with SQL Server 2016_ .
+* _Developed with Microsoft C# [Blazor WASM 7](), SignalR Core 7, ASP.NET Core 7 and JWT Authentication & Authorization with SQL Server 2022_ .
 
 AMS is an [*All-in-One*](), or a [*Unified Asset Monitoring Dashboard*]() specially designed for managerial level: leaders, directors, managers, or users who are responsible or interested in monitoring and tracking priorities, important and valuable assets, or specific information.
 
